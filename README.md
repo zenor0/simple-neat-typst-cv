@@ -4,7 +4,7 @@
 
 ## 预览
 
-![simple-neat-cv](https://raw.githubusercontent.com/typst/simple-neat-cv/master/example.png)
+![simple-neat-cv](./example.png)
 
 ## 使用
 
@@ -42,6 +42,6 @@ make
 
 ## LICENSE
 
-本项目基于 MIT 协议开源
+本项目基于 MIT 协议开源, 欢迎二次开发
 
 项目中的图标来源于 [simpleicons](https://simpleicons.org/) 和 [iconpark](https://iconpark.oceanengine.com/)
