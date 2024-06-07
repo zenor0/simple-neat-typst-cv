@@ -1,0 +1,16 @@
+[package]
+name = "simple-neat-cv"
+version = "0.1.0"
+entrypoint = "cv/lib.typ"
+authors = ["zenor0"]
+license = "MIT"
+description = "A simple and neat CV generator"
+# repository = "
+keywords = ["cv", "resume", "generator"]
+categories = ["cv"]
+exclude = ["tests/*", "examples/*"]
+
+[template]
+path = "examples"
+entrypoint = "example.typ"
+
